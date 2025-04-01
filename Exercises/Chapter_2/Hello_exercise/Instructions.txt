@@ -1,0 +1,18 @@
+luanaaldea@Luanas-Air ~ % pwd
+/Users/luanaaldea
+luanaaldea@Luanas-Air ~ % cd Documents/Programming/Exercises/Chapter_2 
+luanaaldea@Luanas-Air Chapter_2 % pwd
+/Users/luanaaldea/Documents/Programming/Exercises/Chapter_2
+luanaaldea@Luanas-Air Chapter_2 % ls
+hello.c
+luanaaldea@Luanas-Air Chapter_2 % gcc -Wall -Werror -o hello hello.c 
+luanaaldea@Luanas-Air Chapter_2 % ls
+hello	hello.c
+luanaaldea@Luanas-Air Chapter_2 % ./hello 
+Hello, world
+luanaaldea@Luanas-Air Chapter_2 % gcc -Wall -Werror -o hello hello.c
+luanaaldea@Luanas-Air Chapter_2 % ./hello                           
+Hello, world
+luanaaldea@Luanas-Air Chapter_2 % ls
+hello	hello.c
+luanaaldea@Luanas-Air Chapter_2 % 
